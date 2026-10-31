@@ -1,0 +1,259 @@
+node	308223757	48.8188919	2.3237467	fast_food	Nagomi Ramen	japanese	"Mo-Sa 11:45-14:45, 18:45-22:15; Su 18:15-22:15"		3	Rue Théophile Gautier	Montrouge		
+node	363597933	48.8181621	2.3297025	restaurant	Le Grand Mandarin de Montrouge	chinese							
+node	370791455	48.8189255	2.3245200	restaurant	Monterosso	italian	"Mo-Fr 12:00-14:00, 19:00-22:00; Sa 19:00-22:00"	no					
+node	370791986	48.8181334	2.3302614	restaurant	Chez Ama	cambodian	Mo-Fr 11:30-15:00; Mo-Sa 18:30-23:00				Montrouge	7	Rue Danton
+node	441162564	48.8239093	2.3042851	pub	Le Timbre Poste		09:00-02:00	yes	1	Rue Rouget de l'Isle			
+node	614319063	48.8135264	2.3072000	restaurant	Chez Marco	italian	"Mo-Sa 12:00-14:30,18:30-23:00"						
+node	614319066	48.8124084	2.3008926	restaurant	Jardin d'Asie	thai	Mo-Sa 12:30-22:30						
+node	617824193	48.8182874	2.3227838	restaurant	Le Physalis			no					
+node	639619634	48.8188024	2.3258578	restaurant	Villa Firenze	pizza		no					
+node	679815868	48.8177997	2.3248824	restaurant	Le Mékong	cambodian	10:30-22:30		12	Rue Théophile Gautier	Montrouge		
+node	679818987	48.8195864	2.3234183	restaurant	Farouche		"Mo-Fr 12:00-14:00, 19:00-22:00"	no	36	Avenue Henri Ginoux	Montrouge		
+node	740160118	48.8170832	2.3217978	restaurant	Bouillon Montrouge	regional	Tu-Sa 12:00-14:30;Th-Sa 19:00-22:00	yes	65	Avenue Henri Ginoux	Montrouge		
+node	968466881	48.8184386	2.3244542	restaurant	New Delices	asian		no					
+node	968473787	48.8186764	2.3241013	restaurant	La Crêperie	crepe		yes	7	Rue Théophile Gautier	Montrouge		
+node	968479371	48.8186532	2.3242461	restaurant	Ishikawa	japanese		no	5	Rue Théophile Gautier	Montrouge		
+node	1103223493	48.8141613	2.3222538	restaurant	Yum	asian	"Mo-Sa 12:00-15:00, 19:00-23:00"	parklet	40	Avenue Léon Gambetta	Montrouge		
+node	1512693745	48.8131800	2.3197973	restaurant	French Dodo	mauritian		yes					
+node	1518215330	48.8166143	2.3214767	restaurant	Pizza Roma	pizza	"Mo-Su 10:00-15:00, 19:00-23:00"	yes				71	Avenue Henri Ginoux
+node	1545804603	48.8108498	2.3136914	restaurant	Simple Sushi	sushi		no	53-55	Rue Fénelon	Montrouge		
+node	1637095702	48.8114048	2.3261009	bar	Le Carves			yes					
+node	1695095164	48.8192940	2.3237026	restaurant	Okito	asian	"Tu-Su 12:00-14:30,19:00-22:30"	no					
+node	1695115854	48.8158764	2.3111289	restaurant	Le Rond-Point	french	Mo-Fr 06:30-23:00; Sa 06:30-16:00	yes	18		Montrouge	18	Place Jean Jaurès
+node	1696343703	48.8153607	2.3178376	cafe	L'Entr'Acte		Mo-Sa 06:00-21:00	yes					
+node	1704374874	48.8170494	2.3215311	cafe	Le Disque Bleu			yes					
+node	1768572992	48.8193695	2.3042381	pub	L'Oustalou							107	
+node	1768595695	48.8195932	2.3058005	restaurant	Yoshiba	asian							
+node	1768812165	48.8196148	2.3059423	restaurant	Au Paris Brest								
+node	1779444212	48.8147353	2.3193309	restaurant	Comptoir du Marché		Mo-Sa 07:30-22:00; Su 08:00-15:00	yes					
+node	1794262385	48.8130340	2.3197042	restaurant	Zensushi	japanese	"Mo-Fr 11:30-14:45, Mo-Fr 18:30-22:30, Sa 18:30-22:30, Su 18:30-22:30"	yes				119	Avenue Henri Ginoux
+node	1797945074	48.8183068	2.3303100	restaurant	Hokkaido 168		"Mo-Fr 11:30-15:00, Mo-Su 18:00-22:30"				Montrouge	7	Rue Danton
+node	1797977729	48.8111635	2.3141593	restaurant	Linette	italian	"Mo-Th,Sa,Su 10:30-22:30;Fr 10:30-24:00"	no				2	Rue Georges Messier
+node	1913301372	48.8162211	2.3106452	restaurant	Le Rouge-Gorge	french	Mo-Th 12:00-00:00; Fr 12:00-01:00; Sa 17:00-01:00	yes			Montrouge	1	Rue Camille Pelletan
+node	1913304257	48.8160549	2.3100954	restaurant	Bomunsa	japanese	"Mo-Su 18:00-22:30, Mo-Sa 11:00-14:30"	yes					
+node	1941841918	48.8165338	2.3097872	restaurant	Poulet Braisé	chicken	"Mo-Su 11:30-15:00, 18:00-23:00"		9	Rue Camille Pelletan	Montrouge		
+node	2017157354	48.8192937	2.3232019	restaurant	The Himalayan	indian	"Mo-Sa 12:00-14:30,19:00-23:00"	no	38	Avenue Henri Ginoux	Montrouge	40	Avenue Henri Ginoux
+node	2026672306	48.8182083	2.3192120	restaurant	Rubeo Monte	french		yes				1	Place de la Libération
+node	2040281434	48.8175965	2.3243246	restaurant	Viet Quan	vietnamese	"Mo-Sa 11:30-14:30,19:00-22:30"	no	9	Rue Gabriel Péri	Montrouge	9	Rue Gabriel Péri
+node	2042118258	48.8160096	2.3118391	restaurant	Simone		Su-Th 10:00-23:00; Fr-Sa 10:00-24:00		30		Montrouge	32	
+node	2052942063	48.8154800	2.3175362	restaurant	Chez Friloux 1933		Tu-Th 08:00-20:00; Fr 08:00-22:30; Sa 08:00-23:00	yes					
+node	2052942069	48.8160097	2.3179075	restaurant	Tripletta	pizza						82	Avenue de la République
+node	2052942071	48.8159526	2.3178715	restaurant	À Côté du 82...	italian;pizza;salad;pasta;burger;dessert	"Mo 11:30-14:30; Tu-Sa 11:30-14:30,19:30-22:30"	yes	84	Avenue de la République	Montrouge	84	Avenue de la République
+node	2052942075	48.8151920	2.3173659	restaurant	Sea Bar	seafood	"Tu-Sa 12:00-14:00,19:00-22:00"	yes					
+node	2054691771	48.8204519	2.3209739	cafe	Fast & Fresh		"Tu-Sa 11:30-14:30,18:30-22:30"		23	Avenue de la République			
+node	2056337015	48.8171634	2.3218194	fast_food	Sandwicherie La Numidie	sandwich		no	63	Avenue Henri Ginoux	Montrouge		
+node	2102769275	48.8169421	2.3206411	restaurant	Restaurant Le Victor Hugo	french		no	52	Rue Louis Rolland	Montrouge		
+node	2125350891	48.8235329	2.3028668	fast_food	Point B	burger	Mo-Su 11:30-01:00						
+node	2126706727	48.8221407	2.3036166	restaurant	New Kumano	japanese	"Mo-Sa 11:00-14:30,18:00-23:00; Su 18:00-23:00"						
+node	2151917022	48.8208297	2.3138490	restaurant	Sushi Ajisen	sushi		yes					
+node	2151917025	48.8193316	2.3202827	bar	Café du Théâtre		Mo-Fr 06:30-00:00;Sa-Su 09:00-00:00	yes					
+node	2151917028	48.8192844	2.3204283	fast_food	Istanbul City	kebab		no					
+node	2210579327	48.8219069	2.3041428	fast_food	El Baraka	kebab							
+node	2210579328	48.8192916	2.3029814	bar	Le Cham's							91	Boulevard Gabriel Péri
+node	2213842106	48.8215741	2.3044405	pub	La Divette de Malakoff			no					
+node	2213842109	48.8218241	2.2996401	pub	Le New Mail			yes					
+node	2216313788	48.8242263	2.3040953	restaurant	Caffè Luna	italian	Mo-Fr 09:00-01:00; Sa 10:00-01:00; Su off		1	Rue Legrand			
+node	2304147377	48.8215845	2.3021443	pub	L'Hirondelle			yes					
+node	2304953007	48.8204084	2.3209443	restaurant	La Calypsia	pizza	"Tu-Sa 11:00-14:30, Tu-Fr 18:00-22:30, Sa,Su 18:00-23:00"	no	25	Avenue de la République	Montrouge	25	Avenue de la République
+node	2315937064	48.8114362	2.3138261	restaurant	Au Couscous			yes					
+node	2322897816	48.8154976	2.3204809	restaurant	Titi Touareg	mediterranean	Mo-Fr 09:00-24:00; Sa 09:30-24:00; Su 10:00-24:00	yes					
+node	2327181277	48.8140688	2.3219918	restaurant	Thaï in Box	thai	"Mo-Fr 11:30-15:00, 18:00-22:30; Sa 18:00-22:30"	parklet	39	Avenue Léon Gambetta			
+node	2327358561	48.8107575	2.3081708	pub	Le Pélican								
+node	2330595621	48.8156507	2.3205800	restaurant	Chez Papa	indian	Mo-Su 10:00-23:00	no					
+node	2357300095	48.8140341	2.3169781	fast_food	Gourmet de Montrouge	chinese		no				101	Avenue de la République
+node	2360880760	48.8137668	2.3168105	fast_food	La Trazella	italian		no					
+node	2364689548	48.8129242	2.3159777	cafe	Le Jean Bart								
+node	2364689550	48.8121131	2.3154960	restaurant	Aitana - Viande de Belleville		"Mo-Fr 11:00-14:30, 16:00-19:30; Mo-Su 10:00-14:00, 16:00-19:00"	yes					
+node	2369268908	48.8124876	2.3160824	restaurant	Maruyama	japanese		no	125	Avenue de la République	Montrouge		
+node	2369275923	48.8134749	2.3163386	fast_food	Les 126	kebab							
+node	2377049503	48.8119197	2.3031781	restaurant	Bohjan	indian							
+node	2439471565	48.8164184	2.3101477	fast_food	Aloy Thaï	thai	"Fr-Su 19:00-24:00; Mo-Th 11:30-14:30,19:00-23:00"				Montrouge		
+node	2440319245	48.8142081	2.3154964	restaurant	Le Saint-Laurent	french							
+node	2464230638	48.8103540	2.3130289	restaurant	La Parenthèse	french							
+node	2472924839	48.8122984	2.3156093	bar	Les Marronniers Fleuris			no					
+node	2479295353	48.8161817	2.3128769	cafe	L'Annexe		Mo-Su 07:00-23:00					68	Avenue Verdier
+node	2482654363	48.8180339	2.3174064	restaurant	Ottimisto	italian		no		Avenue Jean Jaurès	Montrouge	16	Avenue Jean Jaurès
+node	2483537871	48.8130054	2.3019463	restaurant	La Cava	italian							
+node	2483550824	48.8138430	2.3031666	restaurant	Le Tipaza	moroccan	Mo-Su						
+node	2483572702	48.8161589	2.3059614	bar	Le Weekend								
+node	2485073956	48.8210634	2.3126634	restaurant	Le First			no					
+node	2485073961	48.8209466	2.3124908	restaurant	Tandoori House	indian		no					
+node	2485073991	48.8217083	2.3135975	restaurant	Sakura Sushi	japanese		no	41	Avenue Pierre Brossolette	Montrouge		
+node	2485073995	48.8208213	2.3123157	restaurant	Le libanais de Montrouge	lebanese		no					
+node	2485084918	48.8195224	2.3125948	restaurant	Phô66		"Mo-Sa 11:45-14:30,19:00-22:30"	yes					
+node	2485105681	48.8146570	2.3032594	fast_food	O'grill								
+node	2524648591	48.8171637	2.3210782	restaurant	Chez Camille	crepe		yes		Rue Sadi Carnot	Montrouge		
+node	2524648592	48.8171930	2.3209348	restaurant	Le Riadh			no	7	Rue Sadi Carnot	Montrouge		
+node	2524666350	48.8197206	2.3110853	bar	Café de l'Europe		Mo-Fr 07:30-20:00; Sa 09:00-19:00	yes					
+node	2524671133	48.8193411	2.3103481	restaurant	Miyakito	japanese		yes					
+node	2524701134	48.8179983	2.3087080	fast_food	Domino's Pizza	pizza	"Mo-Th,Su 11:00-14:30,18:00-22:30; Fr,Sa 11:00-14:30,18:00-23:00"						
+node	2525399700	48.8189150	2.3097778	bar	Le Coq Hardi			yes					
+node	2529697548	48.8206096	2.3214393	restaurant	Hubao burger	burger	"Mo-Th 11:30-14:30; Fr-Su 11:30-14:30, 18:30-22:30"	no	65	Boulevard Romain Rolland	Montrouge		
+node	2531257407	48.8185908	2.3226402	restaurant	Il Segreto	pizza		no					
+node	2533833035	48.8194329	2.3232871	restaurant	Pho Kitchen	vietnamese						38	Avenue Henri Ginoux
+node	2547437281	48.8164291	2.3063590	fast_food	Galatasaray	kebab							
+node	2547437284	48.8172179	2.3074553	restaurant	Asian Touch	asian							
+node	2559750798	48.8150491	2.2977469	fast_food	Les Croustillants de Malakoff	pizza;panini							
+node	2567827788	48.8229089	2.3076118	restaurant	Little Burger								
+node	2567834736	48.8200235	2.3055869	restaurant	La liberté	regional							
+node	2571726980	48.8185736	2.2971811	restaurant	Santa Maria	pizza		yes					
+node	2571727372	48.8191233	2.2978663	restaurant	La Madelon	couscous							
+node	2571734444	48.8191280	2.2983292	restaurant	Lys	asian		no					
+node	2589146729	48.8197269	2.3117135	restaurant	Le Matana	italian	"Tu-Th,Su 11:30-15:00, Su 18:30-22:30, Mo,Fr 11:30-15:00"	no					
+node	2597119591	48.8177317	2.3234877	restaurant	Le Florus	couscous	"Mo-Fr 12:00-14:30, 19:30-22:00"	no	17	Rue Gabriel Péri	Montrouge	17	Rue Gabriel Péri
+node	2603354249	48.8130478	2.3256692	fast_food	Grill Istanbul	kebab;pizza		no			Montrouge		
+node	2604730544	48.8160947	2.3253809	restaurant	Tsukiji	japanese	"Mo-Fr 12:00-14:30, 18:30-22:30; Sa-Su 18:30-22:30"	no	78	Avenue Aristide Briand			
+node	2604801455	48.8170719	2.3295227	restaurant	La Scappata	italian							
+node	2604801458	48.8171046	2.3289082	bar	Le Beaujolais			yes					
+node	2604801464	48.8171141	2.3283805	restaurant	Santa Rita	italian	"Mo-Fr 11:30-14:30,18:30-23:00; Sa 11:30-15:30,18:30-22:40; Su 18:30-22:30"	yes	24	Rue Barbès			
+node	2606443647	48.8151978	2.3254661	restaurant	Dal Rosso	pizza		no	88	Avenue Aristide Briand	Montrouge		
+node	2606443648	48.8147902	2.3255239	restaurant	Restaurant Le Murat			no				96	Avenue Aristide Briand
+node	2606470384	48.8134959	2.3256425	fast_food	Antalya Grill	kebab	Mo-Su 11:00-23:00	veranda	112	Avenue Aristide Briand	Montrouge		
+node	2606498408	48.8139506	2.3232016	restaurant	Chiang Rai Jao	lao;thai	"Mo-Fr 12:00-15:00, 19:00-22:45; Sa, Su 19:00-22:45"	parklet					
+node	2611478140	48.8124494	2.3278506	restaurant	Le 55 Crep's	crepe	"Mo-Th 11:00-21:00, Fr 11:00-14:30"	yes					
+node	2618513402	48.8191109	2.3192269	restaurant	La Quincaillerie Générale	brasserie	"Mo-Fr 07:00-23:30, Sa,Su 08:00-23:30"	no					
+node	2618640027	48.8167701	2.3258771	restaurant	La boitique					Avenue Aristide Briand	Montrouge		
+node	2618640028	48.8169105	2.3258689	fast_food	Sixty3	kebab		no			Montrouge		
+node	2618640030	48.8169918	2.3258616	bar	La Divette			no					
+node	2618653043	48.8126111	2.3263710	restaurant	OPS Pizza	pizza		no					
+node	2618653049	48.8124666	2.3263896	restaurant	Sayuri	japanese	"Mo-Su 18:25-22:25, Mo-Sa 11:00-14:25"	no					
+node	2619934920	48.8173940	2.3297916	restaurant	Courtepaille	french	Mo-Su 11:30-23:00	yes	33	Rue Barbès	Montrouge		
+node	2627569959	48.8192793	2.3258826	bar	Le Nemrod			no					
+node	2627569970	48.8191025	2.3258715	fast_food	Sushi In	sandwich	Tu-Su 18:00-24:00	no					
+node	2661299184	48.8156610	2.3106627	fast_food	Eat Chicken	chicken	Mo-Su 11:30-23:00						
+node	2709862311	48.8142162	2.2955675	cafe	Le Métro	burger;coffee_shop;french;pasta		yes	112	Rue Guy Môquet			
+node	2711212746	48.8145741	2.2967729	restaurant	Amago Sushi	japanese							
+node	2740219396	48.8184994	2.3009105	restaurant	Pizzaria Picola Calabria	pizza							
+node	2740234925	48.8166780	2.3001817	restaurant	Le Chistéra								
+node	2788019943	48.8195235	2.3065190	restaurant	Kazoku	japanese							
+node	2788019949	48.8195444	2.3066797	restaurant	Taste of Tibet	nepalese;indian;tibetan		no	154	Boulevard Gabriel Péri	Malakoff		
+node	2788062497	48.8174789	2.3073187	restaurant	L'atelier	portuguese		yes					
+node	2820541879	48.8184798	2.3087124	restaurant	Chez La'	vietnamese		no					
+node	2833543882	48.8191042	2.3033158	restaurant	Pho Bonheur	vietnamese							
+node	2833557392	48.8177627	2.3028268	restaurant	Otoko Yama	japanese							
+node	2836540694	48.8205196	2.3114028	fast_food	La Bonne Graye	burger							
+node	2866845693	48.8191107	2.3006492	cafe	100 Stress								
+node	2866848751	48.8191098	2.3004159	fast_food	Royal Pizza	pizza							
+node	2866856021	48.8193036	2.2999469	restaurant	Okayama	japanese		no					
+node	2904699987	48.8169262	2.3207076	cafe	Huguette			no	50	Rue Louis Rolland	Montrouge		
+node	2906130405	48.8203499	2.3006124	bar	Au Petit Chez Soi								
+node	2906135689	48.8209093	2.3004031	restaurant	Le French Cafe	french		yes					
+node	2906170441	48.8206241	2.2995674	restaurant	Le Tremplin			yes					
+node	2925986485	48.8209419	2.2998629	bar	Gamin								
+node	2939342980	48.8199106	2.3076945	fast_food	O'Crosti Big Original								
+node	2939342982	48.8200926	2.3088560	restaurant	Café M			yes					
+node	2939342985	48.8197316	2.3066939	bar	Le Royal Malakoff								
+node	2939342987	48.8201164	2.3084775	cafe	Pizza Caserta								
+node	2984480810	48.8212079	2.3118008	bar	Le Voltaire			no					
+node	3018102668	48.8227808	2.3077092	fast_food	The box burger	burger							
+node	3018279369	48.8220740	2.3065250	restaurant	Chez Martine	crepe							
+node	3018371234	48.8231685	2.3073744	bar	Le Gambetta								
+node	3023091397	48.8222611	2.3054756	restaurant	Ozaka	japanese							
+node	3023129937	48.8228834	2.3049442	bar	Le Fleuri		Sa 08:00-20:00; Su 08:00-15:00; Mo-Fr 06:30-20:00						
+node	3023165568	48.8217862	2.3042439	restaurant	Della Nonna	pizza	"Tu-Sa 12:00-14:30,18:30-21:30"		57	Avenue Pierre Larousse	Malakoff		
+node	3032599612	48.8226836	2.3041559	fast_food	Brothers Smash & More	burger	"Sa 12:00-15:00, 19:30-24:00; Su 12:00-16:00, 20:00-23:30; Mo 11:00-15:00, 19:30-24:00; Tu-Th 11:00-15:00, 19:30-24:00; Fr 11:00-15:00, 19:30-24:00"	yes	40	Rue de la Tour			
+node	3032599615	48.8229369	2.3046785	restaurant	marguereat								
+node	3032941650	48.8232451	2.3027677	restaurant	Wahaha	korean	"Mo-Su 11:45-14:45,18:00-22:30"	no	24	Avenue Pierre Larousse			
+node	3065232439	48.8224719	2.3032664	bar	Le Carillon								
+node	3089126187	48.8199918	2.3054050	restaurant	Luckey	indian							
+node	3089215120	48.8211374	2.3035749	bar	La Table			yes					
+node	3089304498	48.8217269	2.3040339	fast_food	Nouveaux Delices de Malakoff	chinese		no					
+node	3089304500	48.8213312	2.3043782	fast_food	Palais Malakoff	chinese	Mo-Sa 10:30-21:00	no					
+node	3098860743	48.8116686	2.2945947	fast_food	Resto Mixte	tacos;pizza;kebab;burger							
+node	3098860745	48.8113879	2.2960309	restaurant	Coté Jardin								
+node	3098860751	48.8118237	2.2940965	bar	Le Montana			no					
+node	3100454772	48.8225495	2.3010546	fast_food	Chez Dolly	indian	"Mo-Su 12:00-15:00, 18:00-22:00"		28	Rue Gabriel Crié			
+node	3100528484	48.8217296	2.3019683	pub	Bar Tabac de la Mairie			yes					
+node	3100528485	48.8218059	2.3018976	pub	Brasserie de la Place			yes					
+node	3100559094	48.8215936	2.3028834	fast_food	Apapat	lebanese		yes					
+node	3111440384	48.8210195	2.3026863	pub	Brasserie de l'Hôtel de Ville		"Mo-Su 11:30-15:00,19:00-22:00"	yes					
+node	3111449727	48.8213661	2.3038577	fast_food	O'Frensh Burger	burger;steak_house		yes					
+node	3111449728	48.8213902	2.3039359	fast_food	Le Sesame	kebab		yes					
+node	3270502275	48.8141311	2.2957478	restaurant	La Pizza	pizza							
+node	3348582574	48.8131857	2.3161620	restaurant	La Maison des nouilles	chinese	"Mo-Sa 12:00-14:30,18:30-22:00"						
+node	3369049918	48.8108840	2.3150224	fast_food	151st street pizza	pizza						151	Avenue de la République
+node	3696979876	48.8141313	2.2953836	pub	Le Bistro			no					
+node	3730882807	48.8161488	2.2901507	restaurant	La Taverne			yes	15	Rue Hoche	Malakoff		
+node	3824764679	48.8138137	2.2861012	restaurant	Sayori Sushi	japanese	"Mo-Sa 11:00-16:00, Mo-Su 18:00-22:30"						
+node	3900184012	48.8139866	2.2773440	restaurant	Maharaja								
+node	3901511587	48.8139784	2.2783666	pub	Tabac du Clos			yes					
+node	3936171319	48.8115570	2.2807878	restaurant	Maison de la Pizza	pizza	"Tu-Sa 11:30-14:30,18:00-22:00"						
+node	3964811619	48.8138313	2.2787754	fast_food	Super Pizza	pizza							
+node	4248716883	48.8163525	2.2895702	fast_food	92 Tacos	tacos			8	Rue Hoche	Malakoff		
+node	4254904587	48.8228987	2.3031654	fast_food	Sucré & Salé	crepe	"Mo-Fr 11:30-22:30; Sa 15:00-22:30; Su,PH off"	no					
+node	4259289339	48.8232843	2.3090420	restaurant	La Parisienne								
+node	4405599969	48.8163049	2.3068199	fast_food	Original Grill Poulet	fast_food	"PH,Mo-Su 11:00-24:00"		122	Avenue Verdier	Montrouge		
+node	4554276739	48.8153535	2.3204584	cafe	Le Schmilblick	french	Mo off; Tu-Sa 10:00-23:00; Su 10:00-14:00	yes			Montrouge	94	Avenue Henri Ginoux
+node	4579120655	48.8137443	2.3171965	pub	Les Babines			no					
+node	5287844349	48.8181529	2.3221263	restaurant	À La Muse Bouche			no	20	Rue Gabriel Péri	Montrouge		
+node	5287866734	48.8187805	2.3236487	restaurant	707	burger;steak_house	Mo-Su 11:00-23:00	no	2	Rue Théophile Gautier	Montrouge		
+node	5432292442	48.8157533	2.3206462	restaurant	L'Antidote		Mo-Fr 12:00-14:30;18:30-22:00	no					
+node	5443518900	48.8161683	2.3211554	restaurant	Maison Ming			no					
+node	5727329021	48.8178334	2.3085666	restaurant	Pizza Hut	pizza	"Mo-Th 11:30-14:30,18:00-23:00; Fr-Su 11:30-23:00"						
+node	5739779107	48.8160075	2.3122189	restaurant	Clasico Argentino	argentinian	"Mo-Sa 12:00-15:00,18:00-23:00"		79	Avenue Verdier	Montrouge		
+node	5770223268	48.8160637	2.3095017	restaurant	Home Run Burger								
+node	5799174333	48.8163343	2.3268245	restaurant	À Côté			no					
+node	5820060856	48.8144746	2.3202513	fast_food	Milano	pizza	"Mo-Th, Sa, Su 11:00-14:30, 18:00-23:00; Fr 18:00-23:00"						
+node	5895639649	48.8189172	2.3190816	fast_food	Kreme		Tu-Fr 07:30-20:00; Sa 08:30-19:00; Su 10:30-19:00	yes				8	Place Émile Cresp
+node	5913845158	48.8100285	2.3211173	bar	La Terrasse du CAM		Mo-We 09:00-19:00; Th-Sa 09:00-23:30; Su 09:00-19:00	yes					
+node	5914637147	48.8116728	2.3154989	restaurant	Manayaki	japanese	"Mo-Sa 12:30-15:00, 19:00-22:30"	no					
+node	5931832899	48.8139587	2.3200466	fast_food	O'112			no					
+node	5968503844	48.8195316	2.3233712	restaurant	Kantina	mediterranean	Mo-Fr 09:30-15:00		36	Avenue Henri Ginoux	Montrouge	38	Avenue Henri Ginoux
+node	6126987685	48.8214653	2.3022437	bar	L'herbe rouge			yes	6	Place du 11 Novembre 1918	Malakoff		
+node	6203339886	48.8133597	2.3256561	bar	The Backstage		Th-Sa 17:30-24:00	yes			Montrouge		
+node	6270940187	48.8192816	2.3106044	restaurant	To & Cie	vietnamese	"Mo-Th 12:30-15:00; Fr 12:30-15:00, 18:00-22:00"	yes					
+node	6347747851	48.8151072	2.3173239	restaurant	Fromages et cetera		"Tu-We 12:00-14:00, Th-Sa 12:00-14:00,19:00-22:00"	no				94	Avenue de la République
+node	6348068921	48.8189946	2.3236646	fast_food	Big Fernand	burger	12:00-22:30	no	1	Rue Théophile Gautier	Montrouge	1	Rue Théophile Gautier
+node	6354509208	48.8163113	2.2928344	bar	Le Canastel	french			123	Rue Paul Vaillant-Couturier			
+node	6372446690	48.8158381	2.3273250	restaurant	Napoli Gang	italian		no				18	Boulevard du Général de Gaulle
+node	6447587269	48.8162090	2.3269222	restaurant	Ka Praow		Mo-Fr 11:30-15:00	no			Montrouge		
+node	6468444985	48.8199342	2.3104224	bar									
+node	6470577093	48.8206770	2.3121350	fast_food	O'Tacos	mexican	Mo-Su 10:00-23:45		63	Avenue Pierre Brossolette	Montrouge		
+node	6594685095	48.8136668	2.3180254	restaurant	La Table de Maïna		"Tu, We 12:00-14:30; Th, Fr 12:00-14:30, 19:00-22:00; Sa 19:00-22:00"	no					
+node	6657729432	48.8172878	2.3270014	restaurant	Ajap	japanese	"Mo-Sa 11:30-15:00,18:00-23:00; Su 18:00-23:00"	yes	12	Rue Barbès	Montrouge	12	Rue Barbès
+node	6703982263	48.8197234	2.3115570	restaurant	Misato	japanese		no					
+node	6875144902	48.8125170	2.3191355	restaurant	Au Nom de l'Amande								
+node	7034624429	48.8164352	2.2926557	fast_food	Liia Food								
+node	7113867085	48.8170150	2.3300955	cafe	Café 42		Mo-Fr 10:00-14:00		"40, 42"	Rue Barbès			
+node	7194902173	48.8144720	2.3169471	restaurant	L'OSteria	italian	Mo-Sa 09:30-19:00	no	106	Avenue de la République	Montrouge		
+node	7431537529	48.8238049	2.3027582	restaurant	Les Apaches			yes					
+node	7473026844	48.8211421	2.3118949	fast_food	Mac City	burger		no					
+node	7528311579	48.8181473	2.3020052	bar	Les frangins...								
+node	7608776666	48.8139628	2.3169359	cafe	Le Gaulois			yes					
+node	8302997749	48.8171314	2.3073340	fast_food	Chicken Street	indian;friture			121	Avenue Pierre Brossolette	Montrouge		
+node	8443085271	48.8150549	2.3039304	restaurant	Dubble restaurant healthy		Mo-Fr 08:00-15:00						
+node	8772410915	48.8180367	2.3246666	restaurant	Pokéwok			no	12	Rue Théophile Gautier	Montrouge		
+node	8977303517	48.8166286	2.3061738	restaurant	Le Panda		Mo-Sa 10:30-21:30						
+node	9666378676	48.8150182	2.3208876	fast_food		donut;crepe							
+node	9791900715	48.8192372	2.3197085	bar	La Canopee		Mo-Su 12:00-01:00	no					
+node	9872807850	48.8172233	2.3183497	restaurant	Épire	greek	"Tu-Sa 09:00-15:00,16:00-20:00; Su 09:00-14:00"	no	1	Rue Sylvine Candas	Montrouge		
+node	10155764955	48.8152187	2.2893228	fast_food	Bolkiri	vietnamese	"Mo-Su 11:15-14:45,18:15-22:45"						
+node	11016416540	48.8192319	2.3045912	bar	Le Gabri'el								
+node	11373294062	48.8136544	2.3180838	fast_food	Lilas Mì			no	16	Rue Périer	Montrouge		
+node	11373294064	48.8197148	2.3224033	restaurant	Le Bistrot d'Antan			no	10	Rue Delerue	Montrouge		
+node	11373294066	48.8167718	2.3285908	restaurant	Edo Sushi	japanese		no					
+node	11373294068	48.8127844	2.3195451	fast_food	Original Grill Poulet						Montrouge		
+node	11374230712	48.8165269	2.3266552	fast_food	La Granola			no	10	Boulevard du Général de Gaulle	Montrouge		
+node	11374230713	48.8165057	2.3266619	fast_food	Gourmand'in			no	10	Boulevard du Général de Gaulle	Montrouge		
+node	11374230714	48.8163480	2.3062327	restaurant	Itouya	japanese	"Mo-Su 11:30-15:00,18:00-22:30"						
+node	11374230716	48.8134721	2.3197190	restaurant	Mei Wei	chinese		no	124	Avenue Henri Ginoux	Montrouge		
+node	11374230718	48.8195858	2.3139279	fast_food	Pizza Roma	pizza	"Mo-Fr 11:00-14:30, 18:00-22:30; Sa, Su 18:00-23:00"						
+node	11374246843	48.8165057	2.3266619	fast_food	Gourmand'in			no	10	Boulevard du Général de Gaulle	Montrouge		
+node	11374475730	48.8172685	2.3216530	restaurant	La Numidie				66	Avenue Henri Ginoux	Montrouge		
+node	11409752068	48.8137210	2.2788845	fast_food	Chicken Story	chicken							
+node	11514061812	48.8203678	2.3209166	fast_food	Alohawaii		"Mo-Sa 11:30-14:30,18:30-23:00"		25	Avenue de la République	Montrouge		
+node	11744931679	48.8160720	2.3089116	fast_food	Rock'nBowl		Mo-Fr 11:30-14:30	no					
+node	11872158031	48.8205572	2.3114944	restaurant	Kim Yenk	asian							
+node	12028796969	48.8175001	2.3108094	bar	Les Jardiniers							9	Rue Paul Bert
+node	12090210358	48.8163565	2.3107732	restaurant	Mangia	italian							
+node	12246048174	48.8116458	2.3232039	bar	Babam			yes	10	Avenue du Fort	Montrouge		
+node	12292438506	48.8127138	2.3161941	restaurant	L'Hibiscus				121	Avenue de la République	Montrouge		
+node	12297138225	48.8212914	2.3044358	restaurant	Miu Thai N'Jap	asian							
+node	12959592461	48.8099594	2.3173067	fast_food	Artisanal Burger	burger	"Mo-Sa 11:30-14:30,16:30-22:00"	yes	174	Avenue Henri Ginoux	Montrouge		
+node	13892208984	48.8189227	2.3175728	fast_food	Compose	salad	Mo-Fr 09:00-15:00						
+node	13905115993	48.8179228	2.3223643	restaurant	Nako								
+way	83794193	48.8201497	2.3015587	restaurant	La Tréso		Tu-Sa 10:00-23:00	yes	8	Avenue du Président Wilson			
+way	626844435	48.8158218	2.3205485	fast_food	Crêpes / gaufres	crepe	"Th,Su 08:00-13:00"	no					
+way	669075996	48.8165321	2.3139350	bar	Le kiosque		16:00-21:30						
+way	1322901083	48.8238627	2.3008595	fast_food	Cafétéria Malakoff		Mo-Fr 08:00-17:30						
+relation	9908382	48.8159361	2.3202134	cafe	Le bidule		"Th,Su 08:00-13:00"						
