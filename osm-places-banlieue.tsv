@@ -63,7 +63,7 @@ node	2330595621	48.8156507	2.3205800	restaurant	Chez Papa	indian	Mo-Su 10:00-23:
 node	2357300095	48.8140341	2.3169781	fast_food	Gourmet de Montrouge	chinese		no				101	Avenue de la République
 node	2360880760	48.8137668	2.3168105	fast_food	La Trazella	italian		no					
 node	2364689548	48.8129242	2.3159777	cafe	Le Jean Bart								
-node	2364689550	48.8121131	2.3154960	restaurant	Aitana - Viande de Belleville		"Mo-Fr 11:00-14:30, 16:00-19:30; Mo-Su 10:00-14:00, 16:00-19:00"	yes					
+node	2364689550	48.8121131	2.3154960	fast_food	Shokudo	asian							
 node	2369268908	48.8124876	2.3160824	restaurant	Maruyama	japanese		no	125	Avenue de la République	Montrouge		
 node	2369275923	48.8134749	2.3163386	fast_food	Les 126	kebab							
 node	2377049503	48.8119197	2.3031781	restaurant	Bohjan	indian							
